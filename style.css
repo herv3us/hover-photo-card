@@ -95,25 +95,8 @@ body {
     outline: none;
 }
 
-
-
-li {
-    font-size: 20px;
-    list-style: none;
+.card .con-text p button:hover {
+    background: #fff;
+    color: #000;
 }
 
-.fa-solid {
-    font-size: 24px;
-    color: #FFF
-}
-
-.fa-regular {
-    font-size: 24px;
-    color: #FFF
-}
-
-.card img {
-    height: 100%;
-    z-index: 10;
-    transition: all .25s ease;
-}
